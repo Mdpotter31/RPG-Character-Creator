@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\myff3\\source\\repos\\C\u002B\u002B\\RPG Character Creator\\RPG-Character-Creator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A2CB8D-28AB-40A6-BAB8-4EDC2867BB2B}|RPG-Character-Creator\\RPG-Character-Creator.vcxproj|C:\\Users\\myff3\\source\\repos\\C\u002B\u002B\\RPG Character Creator\\RPG-Character-Creator\\RPG-Character-Creator\\RPG-Character-Creator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7A2CB8D-28AB-40A6-BAB8-4EDC2867BB2B}|RPG-Character-Creator\\RPG-Character-Creator.vcxproj|solutionrelative:RPG-Character-Creator\\RPG-Character-Creator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 361,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RPG-Character-Creator.cpp",
+              "DocumentMoniker": "C:\\Users\\myff3\\source\\repos\\C\u002B\u002B\\RPG Character Creator\\RPG-Character-Creator\\RPG-Character-Creator\\RPG-Character-Creator.cpp",
+              "RelativeDocumentMoniker": "RPG-Character-Creator\\RPG-Character-Creator.cpp",
+              "ToolTip": "C:\\Users\\myff3\\source\\repos\\C\u002B\u002B\\RPG Character Creator\\RPG-Character-Creator\\RPG-Character-Creator\\RPG-Character-Creator.cpp",
+              "RelativeToolTip": "RPG-Character-Creator\\RPG-Character-Creator.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwCoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T23:22:16.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
